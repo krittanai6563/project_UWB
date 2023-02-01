@@ -57,7 +57,7 @@
 
                                      
                                         <scatter-chart :data="state.productData" height="600px"></scatter-chart>
-<!-- 
+
     <div class="box">
         
    
@@ -71,7 +71,7 @@
             </div>
         </div>
         
-    </div> -->
+    </div>
 
        
 
